@@ -1,0 +1,17 @@
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\bin\Debug\net6.0\ProblemSet1.exe
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\bin\Debug\net6.0\ProblemSet1.deps.json
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\bin\Debug\net6.0\ProblemSet1.runtimeconfig.json
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\bin\Debug\net6.0\ProblemSet1.dll
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\bin\Debug\net6.0\ref\ProblemSet1.dll
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\bin\Debug\net6.0\ProblemSet1.pdb
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\obj\Debug\net6.0\ProblemSet1.csproj.AssemblyReference.cache
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\obj\Debug\net6.0\ProblemSet1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\obj\Debug\net6.0\ProblemSet1.AssemblyInfoInputs.cache
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\obj\Debug\net6.0\ProblemSet1.AssemblyInfo.cs
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\obj\Debug\net6.0\ProblemSet1.csproj.CoreCompileInputs.cache
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\obj\Debug\net6.0\ProblemSet1.dll
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\obj\Debug\net6.0\ref\ProblemSet1.dll
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\obj\Debug\net6.0\ProblemSet1.pdb
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\obj\Debug\net6.0\ProblemSet1.genruntimeconfig.cache
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\bin\Debug\net6.0\NetTopologySuite.dll
+D:\Data Programming-Sem 1\ProblemSet1\ProblemSet1\obj\Debug\net6.0\ProblemSet1.csproj.CopyComplete

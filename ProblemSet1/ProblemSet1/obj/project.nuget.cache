@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FOS4RYkSJE4WNtFspizLK7IesCfQmjmCeQ9C7j7rML9uALwad4ws3Sa5tjO0EdJnc0G1RKfmJwbTIMJ49/v1Vw==",
+  "success": true,
+  "projectFilePath": "D:\\Data Programming-Sem 1\\ProblemSet1\\ProblemSet1\\ProblemSet1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahin\\.nuget\\packages\\nettopologysuite\\2.4.0\\nettopologysuite.2.4.0.nupkg.sha512",
+    "C:\\Users\\rahin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
