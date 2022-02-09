@@ -8,4 +8,4 @@ def curconv(curr,amount):
     
 
 if __name__ == "__main__": 
-    curconv('EUR',100)
+    curconv('JPY',100)

@@ -11,5 +11,5 @@ OddEven.OddEven();
 /*data.QQA();*/
 /*data.QQD();*/
 /*data.QQC();*/
-/*Ta.triangleArea(2, 2, 2);
-*/
+/*Ta.triangleArea(2, 2, 2);*/
+

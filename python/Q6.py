@@ -8,4 +8,4 @@ def pig(a):
 
 
 if __name__ == "__main__":
-    pig("Enter")
+    pig("happy")
